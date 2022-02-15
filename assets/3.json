@@ -1,0 +1,19 @@
+{
+  "name": "Wedding Manager",
+  "symbol": "CSDR",
+  "image": "3.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HcmHR7uJKBrkLUjjWtofB1bjA5NoRFrBJV6crtfjadqp",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "KhmerQR",
+  "symbol": "CSDR",
+  "description": "Khmer QR Scanner and Generator",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HcmHR7uJKBrkLUjjWtofB1bjA5NoRFrBJV6crtfjadqp",
+        "share": 100
+      }
+    ]
+  }
+}

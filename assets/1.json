@@ -1,0 +1,20 @@
+{
+  "name": "KHmeter",
+  "symbol": "CSDR",
+  "description": "Khmer Taximeter",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HcmHR7uJKBrkLUjjWtofB1bjA5NoRFrBJV6crtfjadqp",
+        "share": 100
+      }
+    ]
+  }
+}

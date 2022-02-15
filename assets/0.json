@@ -1,0 +1,19 @@
+{
+  "name": "Khmer Unicode Installer",
+  "symbol": "CSDR",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HcmHR7uJKBrkLUjjWtofB1bjA5NoRFrBJV6crtfjadqp",
+        "share": 100
+      }
+    ]
+  }
+}
